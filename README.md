@@ -7,7 +7,7 @@ We also provide three Arabic hate term lexicons. Each term is assigned a positiv
 1. ```AraHate-CHI.csv```: Hate scores were calculated using the chi-square statistic. 
 1. ```AraHate-BNS.csv```: Hate scores were computed using the Bi-Normal Separation (BNS) method.  
 
-Finally, we provide a list of 330 Arabic stop words (```stop_words.csv```).  
+Finally, we provide a list of 356 Arabic stop words (```stop_words.csv```) accounting for both Dialectal Arabic and Modern Standard Arabic.  
 
 Please cite our paper if you find any of our data helpful for your research: 
 
