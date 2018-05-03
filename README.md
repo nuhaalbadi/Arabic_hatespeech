@@ -11,15 +11,15 @@ Finally, we provide a list of 356 Arabic stop words (```stop_words.csv```) accou
 
 <!-- Please cite our paper if you find any of our data helpful for your research: and -->
 
-```
-@inproceedings{,
-  title={},
-  author={},
-  booktitle={},
-  pages={},
-  year={},
-  organization={}
-}
-```
+<!--```-->
+<!--@inproceedings{,-->
+  <!--title={},-->
+  <!--author={},-->
+  <!--booktitle={},-->
+  <!--pages={},-->
+  <!--year={},-->
+  <!--organization={}-->
+<!--}-->
+<!--```-->
 
 
