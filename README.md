@@ -16,6 +16,7 @@ Please cite our paper if you find any of our data helpful for your research: and
   title={Are They Our Brothers? Analysis and Detection of Religious Hate Speech in the Arabic Twittersphere},
   author={Albadi, Nuha and Kurdi, Maram and Mishra, Shivakant},
   booktitle={Proceedings of the 2018 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining},
+  pages={69--76},
   year={2018},
   organization={ACM}
 }
